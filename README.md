@@ -1,5 +1,5 @@
 # book-app
 ![](/images/books1.png)
-![](/images/book2.jng)
-![](/images/book3.jng)
-![](/images/book4.jng)
+![](/images/books2.png)
+![](/images/books3.png)
+![](/images/books4.png)
